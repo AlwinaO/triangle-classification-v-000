@@ -30,7 +30,6 @@ class Triangle
     # triangle error code
     def message
       puts "not a triangle"
-
     end
   end
 
